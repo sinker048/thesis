@@ -1,0 +1,45 @@
+\begin{thebibliography}{1}
+
+\bibitem{hsiao2020}
+蕭立承.
+\newblock 職業網球單打評分模型的實證研究, 2020.
+
+\bibitem{10.2307/2334029}
+Ralph~Allan Bradley and Milton~E. Terry.
+\newblock Rank analysis of incomplete block designs: I. the method of paired
+  comparisons.
+\newblock {\em Biometrika}, 39(3/4):324--345, 1952.
+
+\bibitem{elo1978rating}
+Arpad~E. Elo.
+\newblock {\em The rating of chessplayers, past and present}.
+\newblock Arco Pub., New York, 1978.
+
+\bibitem{alma991021119382005721}
+Mark~E Glickman.
+\newblock Parameter estimation in large dynamic paired comparison experiments.
+\newblock {\em Journal of the Royal Statistical Society.}, 48(3), 1999-08.
+
+\bibitem{glickman2018comparison}
+Mark~E Glickman, Jonathan Hennessy, and Alister Bent.
+\newblock A comparison of rating systems for competitive women's beach
+  volleyball.
+\newblock {\em Statistica Applicata-Italian Journal of Applied Statistics},
+  (2):233--254, 2018.
+
+\bibitem{Ingram+2021}
+Martin Ingram.
+\newblock How to extend elo: a bayesian perspective.
+\newblock {\em Journal of Quantitative Analysis in Sports}, 2021.
+
+\bibitem{nelder1965simplex}
+John~A Nelder and Roger Mead.
+\newblock A simplex method for function minimization.
+\newblock {\em The computer journal}, 7(4):308--313, 1965.
+
+\bibitem{JMLR:v12:weng11a}
+Ruby~C. Weng and Chih-Jen Lin.
+\newblock A bayesian approximation method for online ranking.
+\newblock {\em Journal of Machine Learning Research}, 12(9):267--300, 2011.
+
+\end{thebibliography}

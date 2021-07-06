@@ -1,0 +1,22 @@
+\contentsline {section}{\numberline {1}緒論}{7}{section.1}%
+\contentsline {subsection}{\numberline {1.1}研究動機}{7}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}研究目的}{8}{subsection.1.2}%
+\contentsline {section}{\numberline {2}文獻回顧}{9}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Elo}{9}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Glicko}{10}{subsection.2.2}%
+\contentsline {section}{\numberline {3}研究方法}{12}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Bradley-Terry Model}{12}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}GenElo Surface Model}{13}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}多組別多組員之比賽}{15}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}結合場地於雙打比賽}{17}{subsection.3.4}%
+\contentsline {section}{\numberline {4}資料介紹}{21}{section.4}%
+\contentsline {subsection}{\numberline {4.1}ATP雙打資料集}{21}{subsection.4.1}%
+\contentsline {section}{\numberline {5}分析結果}{23}{section.5}%
+\contentsline {subsection}{\numberline {5.1}參數設定}{23}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}評估準則}{25}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}模型預測結果}{26}{subsection.5.3}%
+\contentsline {subsubsection}{\numberline {5.3.1}多組別多隊員之比賽}{26}{subsubsection.5.3.1}%
+\contentsline {subsubsection}{\numberline {5.3.2}結合場地於雙打比賽}{27}{subsubsection.5.3.2}%
+\contentsline {subsubsection}{\numberline {5.3.3}整體}{29}{subsubsection.5.3.3}%
+\contentsline {section}{\numberline {6}結論與建議}{30}{section.6}%
+\contentsfinish 

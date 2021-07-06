@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: ching.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: plain.bst
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+Database file #1: ref.bib
+Warning--entry type for "hsiao2020" isn't style-file defined
+--line 78 of file ref.bib
+Warning--I'm ignoring hsiao2020's extra "title" field
+--line 80 of file ref.bib
+Warning--I'm ignoring hsiao2020's extra "author" field
+--line 82 of file ref.bib
+Warning--there's a number but no volume in glickman2018comparison
+You've used 8 entries,
+            2118 wiz_defined-function locations,
+            555 strings with 5262 characters,
+and the built_in function-call counts, 2216 in all, are:
+= -- 217
+> -- 85
+< -- 0
++ -- 38
+- -- 26
+* -- 146
+:= -- 384
+add.period$ -- 23
+call.type$ -- 8
+change.case$ -- 36
+chr.to.int$ -- 0
+cite$ -- 9
+duplicate$ -- 83
+empty$ -- 188
+format.name$ -- 26
+if$ -- 452
+int.to.chr$ -- 0
+int.to.str$ -- 8
+missing$ -- 8
+newline$ -- 42
+num.names$ -- 16
+pop$ -- 36
+preamble$ -- 1
+purify$ -- 29
+quote$ -- 0
+skip$ -- 58
+stack$ -- 0
+substring$ -- 140
+swap$ -- 8
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 30
+warning$ -- 1
+while$ -- 23
+width$ -- 9
+write$ -- 86
+(There were 4 warnings)
