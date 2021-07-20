@@ -1,0 +1,9 @@
+numpy==1.20.2
+pandas==1.1.1
+scipy==1.4.1
+seaborn==0.11.0
+scikit-learn==0.23.2
+matplotlib==3.3.1
+glob2==0.7
+toolz==0.10.0
+mpmath==1.1.0
