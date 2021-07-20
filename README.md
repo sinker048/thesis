@@ -9,6 +9,14 @@ To run the tennis examples, you should download Jeff Sackmann's ATP dataset, ava
 Hope you can enjoy it.
 
 -----
+執行所有程式所需import的packages
+
+在command window中打:
+
+pip install -r requirements.txt 
+
+
+-----
 
 用ching.tex產出論文paper
 
